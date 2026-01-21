@@ -1,1 +1,1 @@
-This is the non-maximal SU8 detail following arXiv:2508.11160.
+This is the detailed analyses of the non-maximal symmetry breaking patterns of the SU(8) flavor unified theory.
